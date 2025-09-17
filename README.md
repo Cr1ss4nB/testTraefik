@@ -4,6 +4,10 @@ Este proyecto sigue la guía oficial de [Traefik con Docker](https://doc.traefik
 
 ---
 
+Para empezar se nos pide verificar los requisitos necesarios para utilizar Traefik. Para eso vemos las versiones que tenemos en Docker y Docker Compose instaladas:
+
+<img width="476" height="181" alt="image" src="https://github.com/user-attachments/assets/68a021f0-15a2-444f-8cf7-0da845465d6f" />
+
 ## 1. Archivo docker-compose.yml
 
 Aquí se define el servicio de *Traefik*, que:
@@ -25,6 +29,9 @@ docker compose up -d
 ```
 <img width="1909" height="219" alt="docker-compose-up" src="https://github.com/user-attachments/assets/281cc9f5-b66a-48f5-9c9e-068cecfc9edb" />
 
+Verificamos:
+
+<img width="1919" height="100" alt="image" src="https://github.com/user-attachments/assets/905168de-58ca-4c48-b568-8c26dc019f2f" />
 
 ## 3. Dashboard de Traefik
 
