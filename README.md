@@ -1,4 +1,4 @@
-# Traefik con Docker
+# Traefik con Docker - Cristian Andrés Basto Largo / 202010495
 
 Este proyecto sigue la guía oficial de [Traefik con Docker](https://doc.traefik.io/traefik/getting-started/docker/) para configurar un proxy inverso y enrutar servicios de manera sencilla.
 
